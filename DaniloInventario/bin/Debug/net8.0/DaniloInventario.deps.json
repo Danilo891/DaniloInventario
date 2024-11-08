@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DaniloInventario/1.0.0": {
+        "runtime": {
+          "DaniloInventario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DaniloInventario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

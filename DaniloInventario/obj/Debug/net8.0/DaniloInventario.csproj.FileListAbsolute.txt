@@ -1,0 +1,14 @@
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\obj\Debug\net8.0\DaniloInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\obj\Debug\net8.0\DaniloInventario.AssemblyInfoInputs.cache
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\obj\Debug\net8.0\DaniloInventario.AssemblyInfo.cs
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\obj\Debug\net8.0\DaniloInventario.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\bin\Debug\net8.0\DaniloInventario.exe
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\bin\Debug\net8.0\DaniloInventario.deps.json
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\bin\Debug\net8.0\DaniloInventario.runtimeconfig.json
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\bin\Debug\net8.0\DaniloInventario.dll
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\bin\Debug\net8.0\DaniloInventario.pdb
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\obj\Debug\net8.0\DaniloInventario.dll
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\obj\Debug\net8.0\refint\DaniloInventario.dll
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\obj\Debug\net8.0\DaniloInventario.pdb
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\obj\Debug\net8.0\DaniloInventario.genruntimeconfig.cache
+C:\Users\DELL 5590\source\repos\DaniloInventario\DaniloInventario\obj\Debug\net8.0\ref\DaniloInventario.dll
